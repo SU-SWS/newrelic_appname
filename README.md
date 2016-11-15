@@ -1,5 +1,5 @@
 #[NewRelic AppName](https://github.com/SU-SWS/newrelic_appname)
-##### Version: 7.x-1.x
+##### Version: 7.x-1.0-alpha1
 
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 

@@ -1,6 +1,6 @@
 name = NewRelic AppName
 description = Sets the newrelic.appname PHP variable for reporting to NewRelic.
 core = 7.x
-version = 7.x-1.x-dev
+version = 7.x-1.0-alpha1
 project = newrelic_appname
 project status url = https://github.com/SU-SWS/newrelic_appname
